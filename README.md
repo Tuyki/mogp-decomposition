@@ -41,3 +41,4 @@ where each folder also contains the train/test split.
     - [Training script](./experiments/Jester/jester.py)
     - [Results summary](./experiments/Jester/jester_summary.ipynb)
 
+Note: github doesn't seem to be rendering the notebooks correctly. Consider downloading them for reviewing. 
